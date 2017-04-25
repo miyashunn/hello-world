@@ -1,2 +1,1 @@
-sine
-sinnda
+korosu
